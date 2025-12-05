@@ -7,6 +7,10 @@ SpoilerAlert! is a movie review platform built with FastAPI that lets users brow
 
 The backend manages all core logic including reviews, replies, penalties, user accounts, and movie data, while the frontend delivers a clean, responsive UI for both casual users and admins. The platform is designed to be modular, testable, and easy to extend.
 
+## Demo Video
+
+[![SpoilerAlert Demo](https://img.youtube.com/vi/eyD5-W-f6Sk/0.jpg)](https://youtu.be/eyD5-W-f6Sk)
+
 ## How to Run the Webpage
 
 Before running the system, install the following tools:
